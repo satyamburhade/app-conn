@@ -1,0 +1,7 @@
+apiVersion: appconnect.ibm.com/v1beta1
+kind: Configuration
+metadata:
+  name: wsrr-setdbparms-01
+spec:
+  type: setdbparms
+  data: bXFzaXNldGRicGFybXMgLXcgL2hvbWUvYWNldXNlci9hY2Utc2VydmVyIC1uIElkZW50aXR5IC11IGR1bW15IC1wIGR1bVBhc3M=

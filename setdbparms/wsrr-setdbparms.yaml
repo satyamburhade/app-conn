@@ -4,4 +4,4 @@ metadata:
   name: wsrr-setdbparms-01
 spec:
   type: setdbparms
-  data: mqsisetdbparms -w /home/aceuser/ace-server -n Identity -u dummy -p dumPass
+  data: bXFzaXNldGRicGFybXMgLXcgL2hvbWUvYWNldXNlci9hY2Utc2VydmVyIC1uIElkZW50aXR5IC11IGR1bW15IC1wIGR1bVBhc3M=

@@ -1,3 +1,4 @@
 resources:
+-   setdbparms/wsrr-setdbparms-01-sec.yaml
 -   setdbparms/wsrr-setdbparms.yaml
 -   serverconf/default-serverconf.yaml

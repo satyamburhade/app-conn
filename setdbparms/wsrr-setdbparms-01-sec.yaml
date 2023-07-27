@@ -1,0 +1,6 @@
+apiVersion: v1
+data:
+  configuration: bXFzaXNldGRicGFybXMgLXcgL2hvbWUvYWNldXNlci9hY2Utc2VydmVyIC1uIElkZW50aXR5IC11IGR1bW15IC1wIGR1bVBhc3M=
+kind: Secret
+metadata:
+  name: wsrr-setdbparms-01

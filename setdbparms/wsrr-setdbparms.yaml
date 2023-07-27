@@ -4,4 +4,4 @@ metadata:
   name: wsrr-setdbparms-01
 spec:
   type: setdbparms
-  contents: bXFzaXNldGRicGFybXMgLXcgL2hvbWUvYWNldXNlci9hY2Utc2VydmVyIC1uIElkZW50aXR5IC11IGR1bW15IC1wIGR1bVBhc3M=
+  secretName: wsrr-setdbparms-01

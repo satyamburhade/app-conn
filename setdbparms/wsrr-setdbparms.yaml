@@ -4,4 +4,4 @@ metadata:
   name: wsrr-setdbparms-01
 spec:
   type: setdbparms
-  secretName: zwsrr-setdbparms-01
+  secretName: wsrr-setdbparms-01

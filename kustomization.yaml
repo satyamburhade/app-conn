@@ -3,6 +3,6 @@ kind: Kustomization
 commonAnnotations:
   argocd.argoproj.io/sync-options: SkipDryRunOnMissingResource=true
 resources:
+-   serverconf/default-serverconf.yaml
 -   setdbparms/wsrr-setdbparms.yaml
 -   setdbparms/wsrr-setdbparms-01-sec.yaml
--   serverconf/default-serverconf.yaml

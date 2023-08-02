@@ -3,6 +3,6 @@ data:
   configuration: bXFzaXNldGRicGFybXMgLXcgL2hvbWUvYWNldXNlci9hY2Utc2VydmVyIC1uIElkZW50aXR5IC11IGR1bW15IC1wIGR1bVBhc3M=
 kind: Secret
 metadata:
-  name: wsrr-setdbparms-01
+  name: zwsrr-setdbparms-01
   annotations:
     argocd.argoproj.io/sync-options: PruneLast=true

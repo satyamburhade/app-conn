@@ -4,4 +4,4 @@ metadata:
   name: awsrr-setdbparms-01
 spec:
   type: setdbparms
-  secretName: wsrr-setdbparms-01
+  secretName: zwsrr-setdbparms-01

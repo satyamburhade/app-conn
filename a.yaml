@@ -1,7 +1,7 @@
 apiVersion: appconnect.ibm.com/v1beta1
 kind: Configuration
 metadata:
-  name: wsrr-setdbparms-01
+  name: awsrr-setdbparms-01
 spec:
   type: setdbparms
   secretName: wsrr-setdbparms-01

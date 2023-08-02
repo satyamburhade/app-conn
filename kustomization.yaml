@@ -3,5 +3,5 @@ kind: Kustomization
 
 resources:
 -   default-serverconf.yaml
--   awsrr-setdbparms.yaml
+-   a.yaml
 -   z.yaml

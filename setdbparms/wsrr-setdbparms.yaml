@@ -2,6 +2,8 @@ apiVersion: appconnect.ibm.com/v1beta1
 kind: Configuration
 metadata:
   name: wsrr-setdbparms-01
+  annotations:
+    argocd.argoproj.io/sync-options: PruneLast=true
 spec:
   type: setdbparms
   secretName: wsrr-setdbparms-01
